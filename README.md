@@ -21,3 +21,4 @@ Topics Covered in this repo:
 * Week 11: Recurrent Neural Networks
 * Week 12: Decision Trees and Nearest Neighbors
 * Week 13: Clustering
+![](https://s2.loli.net/2022/01/14/ftJD3kOcUnPHpzN.png)
