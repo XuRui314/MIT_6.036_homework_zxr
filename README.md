@@ -1,7 +1,7 @@
 # MIT_6.036_homework_zxr
 MIT 2019 Spring 6.036 Introduction to machine learning homework, finnished by zxr.
 
-原本是就在mit那个网站上提交的，但是后来卡bug查资料的时候，有幸遇到TangJiahui姐姐的Repo，然后也是受到启发，就自己重新把答案整理到colab，上传到github。
+原本是就在mit那个网站上提交的，但是后来卡bug查资料的时候，有幸遇到TangJiahui姐姐的Repo，然后也是受到启发，就自己重新把答案整理到colab，顺便把自己记的一些笔记，一起上传到github。
 
 # 6.036_Machine_Learning
 Repo for MIT 6.036 Machine Learning 
