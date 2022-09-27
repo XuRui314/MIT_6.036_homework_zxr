@@ -23,7 +23,6 @@ Topics Covered in this repo:
 * Week 11: Recurrent Neural Networks
 * Week 12: Decision Trees and Nearest Neighbors
 * Week 13: Clustering
-<img src="https://s2.loli.net/2022/01/14/ftJD3kOcUnPHpzN.png" style="zoom:5%;" />
 
 # 模式识别
 作业只管写题，不会解释理论，这部分我会写到笔记里:)
@@ -31,3 +30,4 @@ Topics Covered in this repo:
 # PRML Learning
 鸽~
 
+<img src="https://s2.loli.net/2022/01/14/ftJD3kOcUnPHpzN.png" style="zoom:5%;" />
