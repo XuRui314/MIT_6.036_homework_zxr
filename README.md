@@ -25,6 +25,9 @@ Topics Covered in this repo:
 * Week 13: Clustering
 <img src="https://s2.loli.net/2022/01/14/ftJD3kOcUnPHpzN.png" style="zoom:5%;" />
 
+# 模式识别
+作业只管写题，不会解释理论，这部分我会写到笔记里:)
+
 # PRML Learning
 鸽~
 
